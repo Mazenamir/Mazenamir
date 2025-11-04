@@ -1,181 +1,135 @@
-<!-- 🌌 Professional GUI-Style README for Mazen Amir Mohamed -->
+<!-- 🌟 MAZEN AMIR - PROFESSIONAL GITHUB README 🌟 -->
 
+<h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Mazen Amir</span></h1>
+<h3 align="center">Software Engineer | Data Analyst | SWE (AI Powered Software Development Trainee at Digilians & NTI)</h3>
+
+---
+
+### 🧭 About Me
+🌱 Currently training in **AI Powered Software Development (9-Month Program)** at **Digilians & NTI** (Oct 2025 – Present)  
+💻 Passionate about creating **intelligent systems** using **Python, Java, and AI frameworks**  
+🎯 Focused on **Software Design, Data Analytics, and Smart Automation**  
+📊 Interested in **Computer Vision, Machine Learning, and NLP**  
+⚡ Fun fact: I enjoy designing systems that merge **AI and software engineering principles**
+
+---
+
+### 🧰 Tech Stack & Skills
+
+#### 💻 Programming & Frameworks
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Mazen+Amir+Mohamed;AI-Powered+Software+Developer+💡;Data+Analyst+📊+|+Machine+Learning+Engineer+🤖;Future+SD-AI+Master’s+Candidate+🎓" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask&theme=dark" />
 </p>
 
+#### 🧠 AI / Data Science
 <p align="center">
-  <a href="mailto:mazenamie1001@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mazen-amir"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/mazenamir"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mysql,sqlite,sklearn&theme=dark" />
 </p>
 
----
-
-<h2 align="center">🧠 About Me</h2>
-
-<div align="center">
-  
-💡 Passionate about building **AI-powered software systems** that combine data science, software engineering, and machine learning.  
-🎓 Currently preparing for a **Master’s in Software Design in the AI Era**, focusing on **AI-driven system architectures**.  
-⚙️ Strong foundation in **Python**, **SQL**, **Machine Learning**, and **Data Visualization**.  
-🏋️‍♂️ Calisthenics enthusiast — believe in building strength both in mind and body.  
-🚀 Always learning, always building, always curious.
-
-</div>
-
----
-
-<h2 align="center">⚙️ Technical Stack</h2>
-
-<div align="center">
-  
-| **Category** | **Tools & Technologies** |
-|:-------------:|:--------------------------|
-| 🐍 **Languages** | Python, SQL, MySQL, C, JavaScript, PHP |
-| 🤖 **Machine Learning** | Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
-| 📊 **Data Visualization** | Tableau, Power BI (learning), Excel |
-| 🧠 **AI & Software** | Computer Vision, Regression, Classification |
-| 🌐 **Web Tech** | HTML, CSS, Data Scraping |
-| 🧩 **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
-
-</div>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-🧩 **AI & Data Projects**  
-- 🔹 *HR Analytics Dashboard* – Python + Pandas + Matplotlib  
-- 🔹 *A/B Testing Model* – Statistical modeling & regression  
-- 🔹 *TMDB Movie Analysis* – Exploratory analysis with Python  
-- 🔹 *YouTube Analysis Dashboard* – Tableau visualization  
-- 🔹 *Bike Share Data Insights* – Data cleaning & trend analysis  
-
-</div>
-
----
-
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-
-🎓 **Supervised Machine Learning** – DeepLearning.AI & Stanford  
-🎓 **Advanced Data Analysis** – Udacity (FWD)  
-🎓 **Professional Data Analysis** – Udacity (FWD)  
-🎓 **Data Science & ML Diploma** – AAST  
-🎓 **Azure AI Fundamentals (AI-900)** – Microsoft  
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
+#### 🧩 Tools & Platforms
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mazenamir&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenamir&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF" />
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenamir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,azure,anaconda&theme=dark" />
 </p>
 
 ---
 
-<h2 align="center">🌍 Connect With Me</h2>
+### 🧑‍💼 Experience
+
+**💼 Software Engineer (AI Powered Software Development) — Digilians**  
+📅 **Oct 2025 – Present (2 months)** | 📍 Cairo, Egypt (On-site)  
+🧩 *Full-time trainee working on the AI-Powered Software Development track at NTI & Digilians*  
+**Skills:** Software Development · SDLC · Microsoft SQL Server · Pandas · Software Design · Python · Java · JavaScript  
+
+---
+
+**🧠 Computer Vision Intern — EME Borg**  
+📅 **Nov 2023 – Dec 2023 (2 months)**  
+**Skills:** Computer Vision · OpenCV · YOLO · Deep Learning  
+
+---
+
+**📊 Member — Omdena Giza Chapter**  
+_Data Science system for the high school final exams in Egypt_  
+📅 **Oct 2022 – Dec 2022 (3 months)**  
+**Skills:** Web Scraping  
+
+---
+
+**🤖 Data Scientist Intern — The Sparks Foundation**  
+📅 **Oct 2022 – Oct 2022 (1 month)**  
+**Skills:** NLP · Machine Learning · SQL · Python  
+
+---
+
+**💽 Information Technology Summer Intern — ABU QIR Fertilizers**  
+📅 **Jun 2022 – Jun 2022 (1 month)**  
+**Skills:** IT Service Management · Databases · Data Management · Teamwork  
+
+---
+
+**💡 Competitor at Ideathon — TIEC**  
+📅 **May 2020 – May 2020 (1 month)**  
+
+---
+
+### 🏅 Licenses & Certifications
+
+| Certification | Institution | Issue Date | Credential / Skills |
+|----------------|-------------|-------------|---------------------|
+| **Introduction to Python** | DataCamp | Mar 2024 | Credential ID #39,351,055 · Python · NumPy |
+| **Advanced Data Analysis Nanodegree** | Udacity | Oct 2022 | Data Analytics · NumPy · Tableau · SQL |
+| **Professional Data Science & ML Diploma** | AASTMT | Sep 2022 | Data Analytics · Machine Learning · NLP |
+| **Data Analysis Professional Nanodegree** | Udacity | Mar 2022 | Data Analytics |
+| **Microsoft Certified: Azure AI Fundamentals** | Microsoft | Jun 2021 | Machine Learning · AI Concepts |
+| **Web Development Challenger** | Udacity | May 2021 | Credential ID: CPM4HRUL |
+| **Entrepreneur** | ITIDA | Nov 2020 | Entrepreneurship · Startup Fundamentals |
+| **Certified Entrepreneurship** | Banque Misr | Sep 2020 | Entrepreneurship |
+| **ICDL** | AASTMT | Oct 2020 | Computer Fundamentals |
+| **Web Development with PHP** | AASTMT | — | PHP · Web Development |
+
+---
+
+### 🚀 GitHub Stats & Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mazen-amir">
-    <img src="https://img.shields.io/badge/-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:mazenamie1001@gmail.com">
-    <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/mazenamir">
-    <img src="https://img.shields.io/badge/-GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mazenamir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenamir&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mazenamir/mazenamir/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenamir&theme=react-dark" />
 </p>
-
----
-
-<h2 align="center">💪 Personal Highlights</h2>
-
-<div align="center">
-  
-🏋️ Passionate about **Calisthenics & Discipline**  
-🧘‍♂️ Focused on building strength, endurance, and balance  
-💡 Believe that **consistency transforms potential into mastery**
-
-</div>
-
----
-
-⭐️ *Designed & Coded with precision by [Mazen Amir Mohamed](https://github.com/mazenamir)*  
-📘 *AI-Powered Software Developer | Data Analyst | Future SD-AI Master’s Candidate*
-</div>
 
 ---
 
 ### 🧩 Featured Projects
-🔹 **HR Analysis Project** – Python-based employee insights dashboard  
-🔹 **A/B Testing & Regression** – Data-driven product performance analysis  
-🔹 **YouTube Analytics Dashboard** – Built with Tableau for real-time insights  
-🔹 **TMDB Movie Analysis** – Data exploration and ranking visualization  
-🔹 **Bike Share Data Exploration** – Statistical insights and trends  
+🔹 **AI Vision System (2023)** — Built an intelligent object detection model using **YOLOv8 & OpenCV**  
+🔹 **Data Analytics Dashboard (2022)** — Visualized large datasets using **Python, Pandas, and Tableau**  
+🔹 **Smart Web Scraper (2022)** — Automated data extraction for educational data insights  
 
 ---
 
-### 🏆 Certifications
-- 🎓 *Supervised Machine Learning* — DeepLearning.AI & Stanford  
-- 🎓 *Advanced Data Analysis* — Udacity (FWD)  
-- 🎓 *Professional Data Analysis* — Udacity (FWD)  
-- 🎓 *Data Science & ML Diploma* — AAST  
-- 🎓 *Microsoft Azure AI Fundamentals (AI-900)* — Microsoft  
-
----
-
-### 📈 GitHub Analytics
+### 🌐 Connect With Me
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mazenamir&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenamir&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenamir&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/mazen-amir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mazenamir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mazenamir">
+    <img src="https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### ✨ Animated Header
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mazenamir/mazenamir/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Data+Analyst;AI+Powered+Software+Development+Trainee;Building+Smart+and+Scalable+Systems;Lifelong+Learner+%26+Innovator" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mazen-amir"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mazenamie1001@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 💬 Languages
-- 🇪🇬 **Arabic:** Native  
-- 🇬🇧 **English:** Fluent  
-
----
-
-⭐️ *From [Mazen Amir Mohamed](https://github.com/mazenamir)*  
-_Data Analyst | Data Scientist | AI & Machine Learning Enthusiast_
+⭐️ **From [Mazen Amir](https://github.com/mazenamir)**  
+_“Design software with intelligence, and intelligence with purpose.”_
